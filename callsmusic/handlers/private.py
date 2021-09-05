@@ -27,7 +27,7 @@ async def start(_, message: Message):
                         '🥰MY OWNER🥰 ', url='https://t.me/Me_Iz_Mad_Boi',
                     ),
                     InlineKeyboardButton(
-                        'Group 💬', url='https://t.me/TradingCenter999',
+                        'Group 💬', url=https://t.me/PigasusSupport'',
                     ),
                 ],
             ],
